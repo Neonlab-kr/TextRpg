@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="DBconn">
+    <Position X="1.5" Y="2" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAQBAAAACAABBAAAAAAAAAAiCAAAA=</HashCode>
+      <FileName>DBconn.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HandlerObject">
+    <Position X="5.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BoAAACAIACAAAIAgAIQAABBCAChAAQgAAIAAgAUIgAQ=</HashCode>
+      <FileName>HandlerObject.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Server">
+    <Position X="1.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAACAAAAAAAAEAAAAAACAAAAgBAAAAAgAAAAA=</HashCode>
+      <FileName>Server.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="맑은 고딕" Size="9" />
+</ClassDiagram>
